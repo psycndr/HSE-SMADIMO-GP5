@@ -1,0 +1,16 @@
+# Виртуальные окружения
+.venv/
+venv/
+env/
+
+# Кэши
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+
+# ОС
+.DS_Store
+Thumbs.db
